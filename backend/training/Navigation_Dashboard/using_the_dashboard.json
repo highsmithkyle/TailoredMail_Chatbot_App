@@ -1,0 +1,116 @@
+{
+  "transcript": "Your dashboard can give you lots of helpful data points about how things are going in your account. In the top left is the broadcast calendar, which gives you a visual representation of the current month and. How many broadcasts are scheduled to be sent or have been sent in the past you can see. On May the 15th, there was one broadcast sent out of this account. Under that are the broadcast results, so the five most recently sent mails broadcasted emails will be listed out here in reverse chronological order and you can quickly see the name, the date, how many mails were sent, and then click the little graph icon to. Quickly get to the broadcast summary report for that broadcast. The next block down are projects and latest editions, so these are the most recently created emails in your account, so this is what you are most recently working on so you can quickly send yourself a test or get to those emails you're working on. Up in the top right, you'll see any sort of announcements that we feel you need to know about. They'll be shown in this box and you can click this to get more information. There's also support contact information if you need to get a hold of someone for help. The chat is this floating bubble and it tells you that here there's also e-mail and then a phone number to call. Under there is a broadcast chart of the last 10 broadcasts and the open and click rate for each of those, so you can see you'll have this sort of line graph, and then finally the active subscribers is similarly a line graph, but it shows you month over month. What percentage of all of your subscribers are active in any given month.",
+
+  "questions": [
+    {
+      "question": "What key information does the broadcast calendar on the dashboard provide?",
+      "answer": "The broadcast calendar provides a visual representation of the current month, showing how many broadcasts are scheduled to be sent or have been sent in the past.",
+      "variations": [
+        "What does the broadcast calendar display on the dashboard?",
+        "How can the broadcast calendar help you track your email campaigns?",
+        "What information can you find in the broadcast calendar section?",
+        "Where on the dashboard is the broadcast calendar located and what does it show?",
+        "What insights does the broadcast calendar offer?"
+      ]
+    },
+    {
+      "question": "Where can you find the five most recently sent broadcast emails on the dashboard?",
+      "answer": "The five most recently sent broadcast emails are listed under the 'Broadcast Results' section in reverse chronological order, where you can see the name, date, number of mails sent, and access the broadcast summary report.",
+      "variations": [
+        "How do you view the latest sent broadcasts on the dashboard?",
+        "Where are the recent broadcast emails displayed?",
+        "In which section can you find details about the most recent broadcasts?",
+        "How can you access information about your last five broadcasts?",
+        "Where is the 'Broadcast Results' section and what does it show?"
+      ]
+    },
+    {
+      "question": "What can you do by clicking the graph icon next to a broadcast in the broadcast results?",
+      "answer": "By clicking the graph icon next to a broadcast in the broadcast results, you can quickly access the broadcast summary report for that specific broadcast.",
+      "variations": [
+        "What is the purpose of the graph icon next to each broadcast?",
+        "How can you view a detailed report of a specific broadcast?",
+        "What happens when you click the graph icon in the broadcast results?",
+        "How do you access the summary report from the broadcast results?",
+        "What does clicking the graph icon allow you to do?"
+      ]
+    },
+    {
+      "question": "What information is displayed in the 'Projects and Latest Editions' section?",
+      "answer": "The 'Projects and Latest Editions' section displays the most recently created emails in your account, allowing you to quickly send a test or access the emails you are currently working on.",
+      "variations": [
+        "What can you find in the 'Projects and Latest Editions' block?",
+        "How does the dashboard show your recent email projects?",
+        "Where are your latest email creations listed on the dashboard?",
+        "Which section shows the emails you're currently working on?",
+        "How can you quickly access your recent projects from the dashboard?"
+      ]
+    },
+    {
+      "question": "Where can you find announcements and support contact information on the dashboard?",
+      "answer": "Announcements are located in a box at the top right of the dashboard, where you can click for more information. Support contact information, including a chat bubble, email, and phone number, is also available in this area.",
+      "variations": [
+        "How do you access announcements and support on the dashboard?",
+        "Where are the latest announcements displayed on the dashboard?",
+        "How can you find support contact details on the dashboard?",
+        "What information is available in the top-right corner of the dashboard?",
+        "Where can you find the chat, email, and phone support options?"
+      ]
+    },
+    {
+      "question": "What does the broadcast chart display on the dashboard?",
+      "answer": "The broadcast chart displays the last 10 broadcasts along with their open and click rates, presented in a line graph format.",
+      "variations": [
+        "What information is shown in the broadcast chart?",
+        "How does the broadcast chart help you analyze your email performance?",
+        "What metrics are included in the broadcast chart on the dashboard?",
+        "Where is the broadcast chart located and what does it represent?",
+        "What does the line graph of broadcasts indicate?"
+      ]
+    },
+    {
+      "question": "What does the 'Active Subscribers' graph represent?",
+      "answer": "The 'Active Subscribers' graph shows the percentage of all your subscribers that are active each month, displayed in a line graph format to track month-over-month activity.",
+      "variations": [
+        "What can you learn from the 'Active Subscribers' graph?",
+        "How does the 'Active Subscribers' line graph help you monitor your audience?",
+        "What does the 'Active Subscribers' section indicate?",
+        "What subscriber activity information is available on the dashboard?",
+        "How can you track active subscribers over time?"
+      ]
+    },
+    {
+      "question": "How can the dashboard help you quickly access your current email projects?",
+      "answer": "The dashboard's 'Projects and Latest Editions' section lists your most recently created emails, allowing you to quickly send yourself a test or access the emails you're currently working on.",
+      "variations": [
+        "In what way does the dashboard facilitate access to ongoing email projects?",
+        "How do you find and manage your current email drafts on the dashboard?",
+        "Where on the dashboard can you access your active email campaigns?",
+        "How can you continue working on recent projects from the dashboard?",
+        "What section helps you resume work on recent emails?"
+      ]
+    },
+    {
+      "question": "What types of support are available directly from the dashboard?",
+      "answer": "From the dashboard, you can access support through a floating chat bubble, email, and a phone number provided for direct assistance.",
+      "variations": [
+        "What support options are integrated into the dashboard?",
+        "How can you contact support from the dashboard?",
+        "What methods are available for getting help via the dashboard?",
+        "Which support channels can you find on the dashboard?",
+        "Where can you find assistance if you need help from the dashboard?"
+      ]
+    },
+    {
+      "question": "How does the dashboard help you track the performance of your email broadcasts?",
+      "answer": "The dashboard helps track the performance of email broadcasts by displaying the number of broadcasts sent, providing summary reports through the graph icons, and showing open and click rates in the broadcast chart.",
+      "variations": [
+        "In what ways can the dashboard be used to monitor email campaign success?",
+        "How do you evaluate your email broadcast effectiveness using the dashboard?",
+        "What performance metrics are available on the dashboard for your email broadcasts?",
+        "How can you assess your broadcast results from the dashboard?",
+        "What tools does the dashboard provide for tracking broadcast performance?"
+      ]
+    }
+  ]
+}

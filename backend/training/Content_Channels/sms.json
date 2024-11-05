@@ -1,0 +1,68 @@
+{
+  "transcript": "In addition to sending emails, the application also allows you to send SMS text messages. So if we look in create SMS, setting one of these SMS broadcasts up is pretty straightforward. So I have to give my broadcast a title. If I intend to have a clickable link in the text message then I can put that in this field. Here I can type out the message I intend to send and wherever I want to insert. This link I'll use the tag SMS link. Once those are filled out, you can hit next. On this page you'll decide a few settings here, so do you want to send to US and Canada recipients only? Do you want to include all countries with the US and Canada or all countries minus the US and Canada? Then you will send to your normal lists that you use for e-mail broadcast. So I'm going to send to this employees list. And hit next. And then the broadcast page tells me how many folks on that list are opted in. Potentially, how many are opted out and then I can start now or schedule with a date and time picker. Once I've chosen a time, I can schedule, and we'll see this status page here telling me it's currently scheduled the date and time that it will send, how many SMS messages it will send, and once it has sent, you can come back to this reporting tab to see how many mails or how many messages were sent, how many clicks there were and other data points. The SMS feature does require some additional setup, so if you're interested in sending SMS messages, reach out to your customer success manager who can help out.",
+
+  "questions": [
+    {
+      "question": "How can you send SMS text messages using the application?",
+      "answer": "You can send SMS text messages by navigating to 'Create' and selecting 'SMS' in the main navigation. From there, you can set up an SMS broadcast by providing a title, composing your message, inserting clickable links using the SMS link tag, and configuring recipient settings.",
+      "variations": ["What steps do I take to send an SMS message through the application?", "How do I initiate sending SMS texts in the app?", "Where do I go to create and send an SMS broadcast?"]
+    },
+    {
+      "question": "What information is required when setting up an SMS broadcast?",
+      "answer": "When setting up an SMS broadcast, you need to provide a broadcast title, compose the message content, and insert clickable links using the SMS link tag if desired.",
+      "variations": [
+        "What details must I enter to create an SMS broadcast?",
+        "What fields do I need to fill out when setting up an SMS message?",
+        "What information is necessary for configuring an SMS broadcast?"
+      ]
+    },
+    {
+      "question": "How do you insert a clickable link in an SMS message?",
+      "answer": "To insert a clickable link in an SMS message, use the tag 'SMS link' at the desired location within your message content.",
+      "variations": ["How can I add a hyperlink to my SMS text?", "What is the method for including a clickable link in an SMS?", "How do I embed a link in the SMS message?"]
+    },
+    {
+      "question": "What recipient options are available when scheduling an SMS broadcast?",
+      "answer": "When scheduling an SMS broadcast, you can choose to send to US and Canada recipients only, include all countries with the US and Canada, or include all countries minus the US and Canada. Additionally, you can select specific lists, such as your normal email broadcast lists.",
+      "variations": [
+        "What geographical targeting options do I have for SMS broadcasts?",
+        "How can I select which countries receive my SMS messages?",
+        "What recipient filtering options are available for SMS broadcasts?"
+      ]
+    },
+    {
+      "question": "How do you select the audience for your SMS broadcast?",
+      "answer": "You select the audience for your SMS broadcast by choosing from your existing email broadcast lists, such as the 'employees' list, during the setup process.",
+      "variations": ["How can I choose who receives my SMS messages?", "Where do I pick the recipient list for an SMS broadcast?", "How do I assign a target audience for my SMS campaign?"]
+    },
+    {
+      "question": "What options do you have for sending the SMS broadcast immediately or later?",
+      "answer": "You can choose to 'Start Now' to send the SMS broadcast immediately or 'Schedule' it for a later date and time using the date and time picker.",
+      "variations": ["Can I send my SMS broadcast right away or schedule it?", "What are the timing options for sending SMS messages?", "How do I decide when to send my SMS broadcast?"]
+    },
+    {
+      "question": "What information is displayed on the SMS broadcast status page?",
+      "answer": "The SMS broadcast status page displays the scheduled date and time for sending, the number of SMS messages to be sent, and after sending, it provides reporting data such as the number of messages sent and the number of clicks.",
+      "variations": ["What details can I find on the SMS status page?", "What does the SMS broadcast status page show?", "What information is available after scheduling an SMS broadcast?"]
+    },
+    {
+      "question": "What should you do if you need assistance setting up the SMS feature?",
+      "answer": "If you need assistance setting up the SMS feature, you should reach out to your Customer Success Manager who can help you with the additional setup required.",
+      "variations": ["Who can help me with configuring the SMS tool?", "Where do I get support for setting up SMS messaging?", "Who should I contact for help with the SMS feature?"]
+    },
+    {
+      "question": "What reporting information is available after sending an SMS broadcast?",
+      "answer": "After sending an SMS broadcast, you can access the reporting tab to see how many messages were sent, how many were clicked, and other relevant data points.",
+      "variations": ["What metrics can I view in the SMS reports?", "Where can I find data on my sent SMS messages?", "What reporting features are available for SMS broadcasts?"]
+    },
+    {
+      "question": "Can you exclude certain countries when sending an SMS broadcast?",
+      "answer": "Yes, you can exclude certain countries when sending an SMS broadcast by choosing the option to send to all countries minus the US and Canada.",
+      "variations": [
+        "Is it possible to omit specific countries from my SMS send list?",
+        "How do I exclude certain regions from receiving my SMS messages?",
+        "Can I send SMS broadcasts to all countries except some?"
+      ]
+    }
+  ]
+}

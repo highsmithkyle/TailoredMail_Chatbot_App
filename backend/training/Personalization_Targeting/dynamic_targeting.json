@@ -1,0 +1,8 @@
+{
+  "button_id": "save-button",
+  "name": "Save",
+  "description": "Saves current progress",
+  "location": "top-right",
+  "related_transcripts": ["creating_an_email_transcript.json"],
+  "usage_example": "User clicks [Save] to store changes"
+}

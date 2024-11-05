@@ -1,0 +1,86 @@
+{
+  "transcript": "In addition to sending e-mail, the application will allow you to also build microsites. You can think of a microsite as a little small website, or maybe as an a replacement for something like SharePoint. So you can create posts, link all the posts together and build essentially a little website so and create micro site. You can see I have, one microsite here and inside there's lots of settings to adjust, but at its most basic, you make a post and that is one contained unit of news or information and then you can make a lot of posts categorize them, link them together just like you would, In a website. So, I've got a bunch of posts here. If I look inside of one, I can see I can build a teaser so a little quick blurb about what's the content of this post. I can then put in the full post content inside that and this builder is very similar to our e-mail builder, so it's all drag and drop based. We support in the micro sites the dynamic targeting just like we do in e-mail. So you can say some of these people can access this content and some others can't and then you can even set up sharing with. Social social media platforms or things like teams and slack and Yammer, things like that. So once you put all this together, it can look potentially something like this. So we've got a little help micro site you can see up top some announcements. Over on the right, we have recent posts and then as we break Scroll down, we can see these categories of updates and. Tips. Creating emails and templates. How to manage your lists and segments and here are those. Teasers. And then I can drill down to see more about uploading your list. The micro sites can be hosted through pros. They can also be embedded into a SharePoint site or embedded into Salesforce. And we have lots of options for securing them so that only the people you want to grant access to can access this information. Setting up the microsite does take a little bit of help from your customer success manager, so if a microsite seems like something you might be interested in, reach out to them and they can give you a hand.",
+
+  "questions": [
+    {
+      "question": "What additional feature does the application offer besides sending emails?",
+      "answer": "Besides sending emails, the application allows you to build microsites, which are small websites or replacements for platforms like SharePoint.",
+      "variations": [
+        "What other functionality does the application provide apart from email sending?",
+        "Can the application do more than just send emails?",
+        "What is another feature of the application besides email distribution?"
+      ]
+    },
+    {
+      "question": "How can you describe a microsite within the application?",
+      "answer": "A microsite can be described as a small website or a replacement for platforms like SharePoint, where you can create and link posts to build a mini website.",
+      "variations": ["What is a microsite in the context of this application?", "How does the application define a microsite?", "Can you explain what a microsite is within the app?"]
+    },
+    {
+      "question": "What is the basic unit of content in a microsite?",
+      "answer": "The basic unit of content in a microsite is a post. Each post contains news or information and can be categorized and linked together like in a website.",
+      "variations": ["What constitutes a single piece of content in a microsite?", "In a microsite, what is the fundamental element for adding information?", "How do you add content to a microsite?"]
+    },
+    {
+      "question": "How does the microsite builder compare to the email builder?",
+      "answer": "The microsite builder is very similar to the email builder as it is drag-and-drop based, allowing users to easily add and arrange content blocks.",
+      "variations": [
+        "Is the microsite builder similar to any other tool in the application?",
+        "How does building a microsite relate to building an email?",
+        "Compare the microsite builder to the email creation tool."
+      ]
+    },
+    {
+      "question": "What feature do microsites support that is also available in emails?",
+      "answer": "Microsites support dynamic targeting, allowing you to control which users can access specific content, similar to the dynamic targeting feature in emails.",
+      "variations": ["What common feature do microsites and emails share?", "How is dynamic targeting used in microsites?", "Can you control user access in microsites like in emails?"]
+    },
+    {
+      "question": "What social sharing options are available for microsites?",
+      "answer": "Microsites allow you to set up sharing with social media platforms such as Teams, Slack, and Yammer.",
+      "variations": [
+        "Which social platforms can microsites integrate with for sharing?",
+        "What options exist for sharing microsite content on social media?",
+        "How can you share microsite content through other platforms?"
+      ]
+    },
+    {
+      "question": "How can microsites be hosted or embedded?",
+      "answer": "Microsites can be hosted through the application’s own hosting services or embedded into platforms like SharePoint and Salesforce.",
+      "variations": ["Where can you host your microsites?", "Can microsites be integrated with other platforms?", "What are the hosting options for microsites?"]
+    },
+    {
+      "question": "What security options are available for microsites?",
+      "answer": "There are various security options to ensure that only authorized individuals can access the microsite content, allowing you to control access effectively.",
+      "variations": ["How can you secure your microsites?", "What measures can be taken to protect microsite content?", "Describe the security features available for microsites."]
+    },
+    {
+      "question": "What assistance is recommended when setting up a microsite?",
+      "answer": "It is recommended to reach out to your Customer Success Manager for assistance when setting up a new microsite.",
+      "variations": ["Who should you contact for help with setting up a microsite?", "What support is available for creating microsites?", "Where can you get help to build a microsite?"]
+    },
+    {
+      "question": "What elements are visible on the example microsite provided in the transcript?",
+      "answer": "The example microsite includes announcements at the top, recent posts on the right, and categories of updates and tips as you scroll down, such as creating emails and templates, managing lists and segments, and teasers.",
+      "variations": [
+        "What features are shown in the sample microsite?",
+        "Describe the layout of the example microsite mentioned.",
+        "What content sections are present in the provided microsite example?"
+      ]
+    },
+    {
+      "question": "How can you create a teaser for a post in a microsite?",
+      "answer": "You can create a teaser by adding a quick blurb about the content of the post, which serves as a preview before the full post content.",
+      "variations": ["What is the purpose of a teaser in a microsite post?", "How do you add a preview to a microsite post?", "Explain how to create a teaser for a post in a microsite."]
+    },
+    {
+      "question": "What can you do within a single microsite in terms of content management?",
+      "answer": "Within a single microsite, you can create multiple posts, categorize them, link them together, build teasers, and manage the full content of each post using the drag-and-drop builder.",
+      "variations": [
+        "How do you manage content inside a microsite?",
+        "What capabilities does a microsite offer for organizing content?",
+        "Describe the content management features available within a microsite."
+      ]
+    }
+  ]
+}

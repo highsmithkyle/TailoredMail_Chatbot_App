@@ -1,0 +1,127 @@
+{
+  "transcript": "Creating an e-mail can be quite straightforward. To get started, we'll go to create project. And the first decision we have to make is inside which of our project folders should we create our new mail. I'll be creating a new weekly newsletter. Once I'm inside my folder. There are two options I can start from scratch with the new addition button in the top right or I can choose one of my previously created mails and use the copy option. We'll be starting from scratch. The first thing I have to do is give it a name and hit create. Once I've created the new addition, it will take me into the design tab so you can see across the top. I have design, test, broadcast and reports (Tabs within the Interface). Design is where we will build all of our content for our main. Down here in the view, we can see my template or the wrapper around my content is already sitting there and waiting and to start putting content into my template I'm going to add a content block. The first. The thing I need to do is give it a name. I'll name mine content and then choose a layout. So this is just what I want. A single column or two half 5050 columns or three and so on. Once I've chosen my layout, I can see on the right hand side all of the drag and drop components I have available to me. There are a few different sets, snippets being the simplest, they are just independent single element. So just. A title or just a button. There are also articles which are more full-fledged. So it's got a title and an image and a button and it's aligned nicely for you. There are also tables if you need to display tabular data in your e-mail and then the dynamic. That's all of the dynamic, embeddable, elements, so videos and countdown clocks and things like that. As you saw. I can choose whichever component I like, I drag and drop once and I've dragged them in, I can just click into each element and start editing. I can change my title to and there are a lot of the text editing functionality that you're already used to. You can use those here as well, so things like copy and paste, copy, cut and paste. Bold, Italicize, underline, all of that. When you're inside of a text element, you'll see a bar appear up top that gives you some other things. So left align, center align, right align. Add a bulleted list, add a numbered list, things like that. For images, You can click an image and on the right hand side will pop up settings for that image. Things like, do I want it to be mobile responsive? Do I want to link that image somewhere? Most important is this top section here. So when you are sending your mail, you won't be wanting to send with this placeholder image you want to put in your own image. This little dot dot dot will allow you to swap in your own image. That opens the chooser and inside of the chooser in the images directory we can find all of the images we've stored for use and you can choose the image you want and hit choose and you can see it's inserted my image for me. For buttons. Similarly, click the button, click the button you get settings on the right so. I want my button to say read more and then link it where it needs to Go. You can, if you've accidentally added too many or not the right type of component you can click the trash can to make them go away. Other style options can be found in the settings wheel. And if I open that every element of my component here will be shown on the right and I can open up each of these to adjust style settings for particular elements. So maybe I want to change my button background color. There's a section here called button style and I can open that and I get background color and border radius. So perhaps I want a dark blue button rather than black. I can choose my color hit OK and now. My button is blue. Once you're done building your content. Be sure to save. And once it saves that pop up window closes and we can go, it takes us back to the design tab and we can see here's my template, but now the content block that I just edited is displayed for me inside that template.",
+
+  "questions": [
+    {
+      "question": "How do you initiate the creation of a new email project?",
+      "answer": "To start creating a new email project, navigate to 'Create Project' in the main navigation, then select the desired project folder. Inside the folder, click the 'New Addition' button in the top right to start from scratch or use the 'Copy' option to duplicate an existing email.",
+      "variations": [
+        "What is the first step to create a new email campaign?",
+        "How can I begin a new email project in the application?",
+        "Where do I go to initiate creating a new email?",
+        "What is the initial action required to start a new email project?",
+        "How do I begin setting up a new email campaign?"
+      ]
+    },
+    {
+      "question": "What choices do you have when adding a new email to a project folder?",
+      "answer": "When adding a new email, you can either start from scratch by clicking the 'New Addition' button or duplicate an existing email using the 'Copy' option.",
+      "variations": [
+        "What are the options available when creating a new email?",
+        "How can you add a new email within a project folder?",
+        "What methods can I use to create a new email in the project?",
+        "What choices do I have for adding a new email to my project?",
+        "How can I create a new email in a specific project folder?"
+      ]
+    },
+    {
+      "question": "After selecting to start from scratch, what are the next steps to create a new email?",
+      "answer": "After choosing to start from scratch, you need to give your email a name and click the 'Create' button, which will take you to the Design tab where you can begin building your email content.",
+      "variations": [
+        "What do you do after deciding to create a new email from scratch?",
+        "How do you name and create a new email after selecting to start from scratch?",
+        "What steps follow after selecting 'New Addition' for an email?",
+        "Once you choose to start from scratch, what are the subsequent actions?",
+        "How do you proceed after opting to create a new email from scratch?"
+      ]
+    },
+    {
+      "question": "What are the primary tabs available in the email design interface?",
+      "answer": "The main tabs available in the email design interface are Design, Test, Broadcast, and Reports.",
+      "variations": [
+        "Which tabs can I find in the email design interface?",
+        "What are the different sections in the design tab?",
+        "Can you list the main navigation tabs in the design area?",
+        "What are the primary sections within the email design interface?",
+        "Which main tabs are present in the email creation interface?"
+      ]
+    },
+    {
+      "question": "How do you add a content block to your email template?",
+      "answer": "To add a content block, click on 'Add Content Block', provide a name for the block, choose a layout (such as single column, two 50/50 columns, or three columns), and then drag and drop the desired components from the right-hand side into the content block.",
+      "variations": [
+        "What steps are involved in adding a content block to the template?",
+        "How can I insert a new content section into my email design?",
+        "What's the process to include a content block in the email template?",
+        "How do you create and add a new content block to your email?",
+        "What is the method to add a content block within the email template?"
+      ]
+    },
+    {
+      "question": "What types of components can you add to a content block in your email?",
+      "answer": "You can add various components such as snippets (single elements like titles or buttons), articles (comprehensive elements with titles, images, and buttons), tables for displaying tabular data, and dynamic elements like videos and countdown clocks.",
+      "variations": [
+        "What are the available drag-and-drop components in the email builder?",
+        "Which elements can I add to my email using drag and drop?",
+        "Can you list the different types of components I can use in my email design?",
+        "What types of elements are available for inclusion in a content block?",
+        "Which component categories can I utilize when building my email?"
+      ]
+    },
+    {
+      "question": "How can you edit and format text within a text element in your email?",
+      "answer": "To edit a text element, click on the text block to activate it. A text editing bar will appear at the top, allowing you to perform actions like copy, cut, paste, bold, italicize, underline, adjust alignment (left, center, right), and add bulleted or numbered lists.",
+      "variations": [
+        "What options are available when editing text in the email?",
+        "How do I format text within a text block?",
+        "What text editing features can I use in the email builder?",
+        "How can I modify and style text elements in my email?",
+        "What formatting tools are provided for text in the email design interface?"
+      ]
+    },
+    {
+      "question": "How do you replace a placeholder image with your own image in the email?",
+      "answer": "Click on the image to open its settings on the right-hand side. Then, click the three-dot menu to access the chooser, select your desired image from the stored images directory, and click 'Choose' to replace the placeholder image.",
+      "variations": [
+        "What steps are needed to modify an image in the email template?",
+        "How can I change the image settings in my email?",
+        "How do I replace a placeholder image with my own image?",
+        "What is the process to insert a custom image into the email?",
+        "How can I swap out a default image for my own in the email design?"
+      ]
+    },
+    {
+      "question": "How can you customize the appearance and link of a button in your email?",
+      "answer": "Click on the button to access its settings on the right. You can change the button text, set the link URL, and adjust style settings such as background color and border radius in the 'Button Style' section.",
+      "variations": [
+        "What is the process to edit a button in the email?",
+        "How do I change the text and link of a button?",
+        "How can I style a button differently in my email design?",
+        "What steps do I take to modify a button's appearance and functionality?",
+        "How can I customize the text, link, and style of a button in my email?"
+      ]
+    },
+    {
+      "question": "How do you remove an unwanted component from your email design?",
+      "answer": "To remove an unwanted component, click on the component and then click the trash can icon to delete it from your email design.",
+      "variations": [
+        "What should I do if I add the wrong component?",
+        "How can I delete a component I don't need in my email?",
+        "What's the method to remove an element from the email template?",
+        "How do I eliminate an unnecessary component from my email design?",
+        "What is the process to delete an unwanted element in the email builder?"
+      ]
+    },
+    {
+      "question": "What is the final step after completing your email content design?",
+      "answer": "After finishing building your email content, make sure to save your work. Once saved, the pop-up window will close, returning you to the Design tab where your edited content block is displayed within the template.",
+      "variations": [
+        "What should you do after finishing building your email content?",
+        "What is the final step after designing the email content?",
+        "How do I save my email design changes?",
+        "What must you do to ensure your email design is preserved?",
+        "How do you finalize and save your email after completing the content?"
+      ]
+    }
+  ]
+}

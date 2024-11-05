@@ -1,0 +1,127 @@
+{
+  "transcript": "Now I've set my test and it looks great, I'm ready to send a broadcast. So stepping right from the tests tab, we'll step into broadcast tab. There's several pages throughout the broadcasting process and very often it's just checking your work to make sure everything looks good and everything's going to be sent the way you expect it to. This very first page is mostly checking the from information what's the from name, the from address, reply to address, subject line and preview message. If all of those first five fields there look correct, then you're ready to go on to Step 2. The second page, which we call the broadcast criteria page is. Well, I've got my firm information, but who am I sending this mail to? There's several options here. The most straightforward to understand is sent to all, and that's just what it says. Every subscriber in your account will get this mail. Define custom criteria is a little more targeted than that, so perhaps I want to send to a specific list that I've built or just a specific department and my company or just the Seattle office? Things like that. The third option is this e-mail paste create list option here. So here let's say you just have a big pile of addresses somebody sent to you. You can take those, paste them all into this box, save and include or exclude and send mail to those folks. So for this example, I'm going to send to this dynamic list I've created of employees, so I'm going to highlight that and I just want to put it into the include criteria so into the green box so, only the people on this list are included in the broadcast, so those folks will get the mail. I could also combine that with some excludes, so maybe I want to send to employees but get rid of all the C-Suite folks so we can combine these together to more fully target exactly who we want to receive. For now, we'll keep it simple and send to my list of employees. So we can hit continue this step is. Again, kind of check your work page so the from information again the subject line. Again you can look at a preview of your mail content again just to make sure it looks good. And now that we've given it a list or a segment that we want to send to, it tells us how many people we are expecting to send. So it says there's 10 people on that list, and if I drill into this 10, it will actually list out those addresses for me so I can double check that yes, The people I expected on that list are the people on that list. And if that looks good then, we can step in to schedule. On the scheduling page, we have a couple options. Either start now and if I leave that selected and click start now, it will do just that. Start sending mail out the door right now. I also can, choose schedule and I get a date and time picker. Note. I happen to be on the West Coast, so I schedule a Pacific Time. You will schedule and whatever your local time is. So just keep that in mind in the top right. Again, we get kind of a check your work section. So how many people are we sending this to the from name the from address, the subject line, and a little thumbnail preview of the e-mail we're about to send. You can click it to see it in full size again if you'd like to. And there's also some options down below, so one of the most common is I want to go ahead and set up a resend to anybody who doesn't open this X days after maybe, so I can say three days later, send it again to anybody who didn't open it and maybe I changed the subject line. There's also send an SMS message to anybody who didn't open or click, so it's very similar, but instead of resending the e-mail, we're going to send them a text. And then, repeat this full broadcast. Let's resend it to everybody after a certain period of time, no matter whether they opened it or not. There's also we can set up automated reports to come directly to your inbox 24 hours or anytime period after the broadcast. Once you've picked the date and time for your send. You can hit schedule and the last thing you'll see here is the broadcast or the send status page that gives us information about our scheduled broadcast so I can see information about who set it up. The subject line where it is inside of the application, If I need to go find it. So it's in the weekly newsletter folder and the name of the e-mail is 15 May 2023. The date and time is scheduled to send its current status, how many mails it will send and then there's actions where If I need to change the schedule,or cancel it.",
+
+  "questions": [
+    {
+      "question": "How do you begin sending a broadcast after testing your email?",
+      "answer": "After setting and testing your email, you can initiate sending a broadcast by navigating from the 'Tests' tab directly to the 'Broadcast' tab within the application.",
+      "variations": [
+        "What is the next step after testing an email campaign?",
+        "How do I start sending my email after the test is complete?",
+        "Where do you go to begin broadcasting your tested email?",
+        "Once the email test is successful, how do you initiate the broadcast?",
+        "After testing, what action do you take to send the broadcast?"
+      ]
+    },
+    {
+      "question": "What key details must be verified on the initial page of the broadcasting process?",
+      "answer": "On the first page of the broadcasting process, you need to verify the 'From Name', 'From Address', 'Reply-To Address', 'Subject Line', and 'Preview Message'.",
+      "variations": [
+        "Which details must be checked on the initial broadcasting page?",
+        "What information is reviewed first when scheduling a broadcast?",
+        "List the fields you need to confirm on the first step of broadcasting.",
+        "What are the essential details to verify on the first broadcast setup page?",
+        "Which pieces of information should be checked initially during broadcasting?"
+      ]
+    },
+    {
+      "question": "What recipient selection options are available on the Broadcast Criteria page?",
+      "answer": "You can select recipients by choosing 'Send to All' which sends the email to every subscriber, 'Define Custom Criteria' to target specific lists or departments, or 'Email Paste Create List' to paste a list of email addresses manually.",
+      "variations": [
+        "How can you specify who receives your broadcast email?",
+        "What are the recipient selection options in the broadcast criteria page?",
+        "Describe the different ways to target your email audience.",
+        "What methods can you use to select recipients for your broadcast?",
+        "How do you choose the audience for your broadcast email?"
+      ]
+    },
+    {
+      "question": "How does the 'Define Custom Criteria' option help in targeting your broadcast audience?",
+      "answer": "Using 'Define Custom Criteria' allows you to target specific segments such as a particular list you've built, a specific department within your company, or a specific office location, enabling more precise targeting of your email recipients.",
+      "variations": [
+        "What is the purpose of 'Define Custom Criteria' in broadcasting?",
+        "How can I target a specific department using custom criteria?",
+        "Explain how to use custom criteria to narrow down email recipients.",
+        "In what ways does 'Define Custom Criteria' enhance audience targeting?",
+        "How does 'Define Custom Criteria' improve the precision of your broadcast?"
+      ]
+    },
+    {
+      "question": "When and why would you use the 'Email Paste Create List' feature during broadcasting?",
+      "answer": "The 'Email Paste Create List' feature allows you to manually paste a list of email addresses into a box, save them as a list, and then include or exclude these addresses when sending your broadcast. It's useful when you have a large list of addresses provided externally.",
+      "variations": [
+        "When should I use the 'Email Paste Create List' option?",
+        "Describe how to add a list of emails manually for a broadcast.",
+        "What is the function of the 'Email Paste Create List' feature?",
+        "In what scenarios is the 'Email Paste Create List' feature useful?",
+        "How do you utilize the 'Email Paste Create List' option for your broadcast?"
+      ]
+    },
+    {
+      "question": "How can you combine inclusion and exclusion criteria when selecting broadcast recipients?",
+      "answer": "You can combine inclusion and exclusion criteria by selecting a list to include, such as employees, and then adding exclusion criteria to remove specific groups, like C-Suite members, thereby targeting a more specific audience.",
+      "variations": [
+        "How do you target a specific group while excluding others?",
+        "Explain how to use both include and exclude criteria in broadcasting.",
+        "How can inclusion and exclusion lists be used together for targeting?",
+        "What is the method to include some recipients while excluding others?",
+        "How can you refine your broadcast audience by combining inclusion and exclusion criteria?"
+      ]
+    },
+    {
+      "question": "What information is displayed on the 'Check Your Work' page before scheduling a broadcast?",
+      "answer": "The 'Check Your Work' page displays the 'From Name', 'From Address', 'Subject Line', and a preview of your email content, along with the number of recipients selected for the broadcast.",
+      "variations": [
+        "What details are reviewed on the verification page before sending?",
+        "Which elements are confirmed on the 'Check Your Work' step?",
+        "What should you verify on the final review page before scheduling a broadcast?",
+        "What information is presented on the 'Check Your Work' page before finalizing the send?",
+        "What key details are shown on the 'Check Your Work' screen prior to scheduling?"
+      ]
+    },
+    {
+      "question": "What scheduling options are available when sending a broadcast?",
+      "answer": "You can choose to 'Start Now' to send the email immediately or 'Schedule' it for a later date and time using a date and time picker that aligns with your local time zone.",
+      "variations": [
+        "How can you schedule your email to be sent later?",
+        "What are the choices for timing your broadcast send?",
+        "Describe the options for when to send your broadcast email.",
+        "What scheduling methods can you use for sending your broadcast?",
+        "How do you set the send time for your broadcast email?"
+      ]
+    },
+    {
+      "question": "What additional options can you configure when scheduling a broadcast?",
+      "answer": "When scheduling a broadcast, you can set up follow-up actions such as resending to recipients who didn't open the email after a certain number of days, sending SMS messages to those who didn't engage, repeating the broadcast to all recipients after a set period, and configuring automated reports to be sent to your inbox.",
+      "variations": [
+        "What follow-up actions can be automated when scheduling a broadcast?",
+        "List the additional settings available during the broadcast scheduling process.",
+        "What automated options can you configure for your broadcast email?",
+        "What supplementary actions can you set up when scheduling a broadcast?",
+        "How can you enhance your broadcast scheduling with additional options?"
+      ]
+    },
+    {
+      "question": "How can you view and manage your scheduled broadcasts?",
+      "answer": "You can view and manage your scheduled broadcasts on the 'Send Status' page, which provides information about who set it up, the subject line, its location within the application, scheduled date and time, current status, number of emails to be sent, and options to modify or cancel the schedule.",
+      "variations": [
+        "Where can you find details about your scheduled email broadcasts?",
+        "How do you access the status and management options for scheduled broadcasts?",
+        "Describe how to view and modify scheduled email sends.",
+        "Where can you monitor and manage your scheduled broadcasts?",
+        "How can you check and adjust your scheduled broadcast emails?"
+      ]
+    },
+    {
+      "question": "What should you verify on the Send Status page after scheduling a broadcast?",
+      "answer": "On the Send Status page, confirm details such as who scheduled the broadcast, the subject line, its location within the application, scheduled date and time, current status, number of emails to be sent, and ensure that options to change or cancel the schedule are correct.",
+      "variations": [
+        "What final checks should you perform after scheduling a broadcast?",
+        "How can you confirm that your broadcast is scheduled correctly?",
+        "What information should you review on the send status page after scheduling?",
+        "What details need to be verified on the Send Status page post-scheduling?",
+        "How do you ensure your broadcast is correctly scheduled on the status page?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "transcript": "The main navigation for the application runs along the left side of the page. In this black bar, there's different options depending on what you need to perform and each of them has its own menu of further options, so starting at the top home will bring you back to this dashboard page. The create menu, anything that has to do with creating and that you might send out will live here. So that's building and sending emails, SMS, text messages, video and other dynamic tools like countdown clocks or image carousels, templates, calendar invites, forms, surveys, polls and quizzes. All of that will live inside the create menu. Next down reports multiple different types of reports for you to use. The next option down is Subs, so that's our subscribers. Anything that we need to do to manage our audience would be in this menu and then admin is the last main option here and this is just settings. In the bottom left we see the chooser and the chooser is where you can store all of the files that you might need to use in your emails. So that's your images and word documents and PDFs and other files like that. There is access to help resources. And then a log out option. If you happen to be in an account that has multiple sub accounts. You can toggle between those sub accounts in the very top right of the app, so here you'll find your company name and then your sub accounts if you click on the one that you see visible, this is the one I'm currently inside of. I can click that and see the list of other sub accounts that I can switch into.",
+
+  "questions": [
+    {
+      "question": "Where is the main navigation located in the application?",
+      "answer": "The main navigation is located along the left side of the page in a black vertical bar.",
+      "variations": [
+        "Where can you find the primary navigation menu in the app?",
+        "On which side of the page is the main navigation bar situated?",
+        "Where is the main navigation panel located within the application?",
+        "Which side of the screen houses the application's main navigation?",
+        "In the app, where is the main navigation bar found?"
+      ]
+    },
+    {
+      "question": "What is the function of the 'Home' option in the main navigation?",
+      "answer": "The 'Home' option in the main navigation brings you back to the dashboard page.",
+      "variations": [
+        "What does the 'Home' button do in the navigation menu?",
+        "How do you return to the dashboard from the navigation bar?",
+        "What is the purpose of selecting 'Home' in the main nav?",
+        "What happens when you click on 'Home' in the main navigation?",
+        "How can you navigate back to the home dashboard using the 'Home' option?"
+      ]
+    },
+    {
+      "question": "What types of tools and features are found under the 'Create' menu?",
+      "answer": "Under the 'Create' menu, you can find tools and features for building and sending emails, SMS text messages, videos, dynamic tools like countdown clocks and image carousels, templates, calendar invites, forms, surveys, polls, and quizzes.",
+      "variations": [
+        "What can you access from the 'Create' section in the navigation?",
+        "Which features are available under the 'Create' menu?",
+        "What types of content creation tools are listed in the 'Create' menu?",
+        "What functionalities are provided in the 'Create' menu?",
+        "What can you do within the 'Create' section of the app?"
+      ]
+    },
+    {
+      "question": "What is the purpose of the 'Reports' menu in the navigation?",
+      "answer": "The 'Reports' menu provides access to multiple different types of reports that you can use to analyze your email campaigns and other activities.",
+      "variations": [
+        "What can you do within the 'Reports' section?",
+        "Where do you find analytical reports in the application?",
+        "What is available under the 'Reports' navigation option?",
+        "How can you access reports in the application?",
+        "What reporting features are found in the 'Reports' menu?"
+      ]
+    },
+    {
+      "question": "What functionality does the 'Subs' menu offer?",
+      "answer": "The 'Subs' menu is for managing subscribers, allowing you to perform any actions related to managing your audience.",
+      "variations": [
+        "What can you manage under the 'Subs' section?",
+        "Where do you handle your subscriber list in the app?",
+        "What is the 'Subs' menu used for?",
+        "How do you manage subscribers using the 'Subs' menu?",
+        "What subscriber management features are available under 'Subs'?"
+      ]
+    },
+    {
+      "question": "What options are available under the 'Admin' menu?",
+      "answer": "The 'Admin' menu provides access to settings where you can configure various aspects of your account.",
+      "variations": [
+        "What can you do within the 'Admin' section?",
+        "Where do you find account settings in the navigation?",
+        "What functionalities are housed under the 'Admin' menu?",
+        "How can you adjust settings using the 'Admin' menu?",
+        "What administrative options are available in 'Admin'?"
+      ]
+    },
+    {
+      "question": "What is the 'Chooser' in the application and where is it located?",
+      "answer": "The 'Chooser' is located in the bottom left of the main navigation bar and is where you can store all the files needed for your emails, such as images, Word documents, PDFs, and other files.",
+      "variations": [
+        "Where can you store your email files in the app?",
+        "What is the purpose of the 'Chooser' feature?",
+        "How do you manage your files within the application?",
+        "How do you access the 'Chooser' to upload files?",
+        "What is the function of the 'Chooser' and its location?"
+      ]
+    },
+    {
+      "question": "How can you switch between multiple sub-accounts in the application?",
+      "answer": "If your account has multiple sub-accounts, you can toggle between them by clicking on your company name in the very top right of the app, where you'll see a list of available sub-accounts to switch into.",
+      "variations": [
+        "What steps do you take to switch sub-accounts?",
+        "How do you manage multiple sub-accounts within the app?",
+        "Where do you find the option to toggle between different sub-accounts?",
+        "How can you navigate to other sub-accounts?",
+        "What is the process to switch to a different sub-account?"
+      ]
+    },
+    {
+      "question": "What support options are available from the main navigation?",
+      "answer": "Support options include access to help resources and a log-out option located in the main navigation.",
+      "variations": [
+        "How can you access support from the navigation menu?",
+        "What help features are integrated into the main navigation?",
+        "Where do you find support resources in the application?",
+        "How do you log out of the application?",
+        "What assistance options are available in the main navigation?"
+      ]
+    },
+    {
+      "question": "What can you do with the files stored in the 'Chooser'?",
+      "answer": "Files stored in the 'Chooser' can be used in your emails, including images, Word documents, PDFs, and other necessary files.",
+      "variations": [
+        "How are the files in the 'Chooser' utilized?",
+        "What types of files can you store in the 'Chooser' for your emails?",
+        "What is the 'Chooser' used for in email creation?",
+        "How does the 'Chooser' help in preparing emails?",
+        "In what ways can you use the files saved in the 'Chooser'?"
+      ]
+    },
+    {
+      "question": "What features are available in the 'Create' menu for dynamic content?",
+      "answer": "The 'Create' menu includes dynamic tools such as countdown clocks and image carousels, which can be used to enhance your emails and other content.",
+      "variations": [
+        "Which dynamic features can you find in the 'Create' section?",
+        "What interactive tools are available under the 'Create' menu?",
+        "How can you add dynamic content to your emails from the 'Create' menu?",
+        "What dynamic content options are offered in the 'Create' menu?",
+        "How do you incorporate dynamic elements using the 'Create' section?"
+      ]
+    }
+  ]
+}

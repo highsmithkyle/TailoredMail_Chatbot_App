@@ -1,0 +1,280 @@
+{
+  "transcript": "[Placeholder for the complete transcript on dynamic tags]",
+
+  "questions": [
+    {
+      "question": "What are dynamic tags used for?",
+      "answer": "Dynamic tags are used to insert personalized data from the subscriber's profile into their email, such as first names in greetings or custom data fields.",
+      "variations": [
+        "How can I use tags to personalize emails?",
+        "What is the purpose of dynamic tags in the email editor?",
+        "Why should I use tags when creating emails?",
+        "How do dynamic tags work in email templates?",
+        "Can you explain the use of dynamic tags for personalizing emails?"
+      ]
+    },
+    {
+      "question": "How do you access the tag manager in the email editor?",
+      "answer": "In the email editor, the tag manager can be accessed by clicking the icon with square brackets on the editing bar.",
+      "variations": [
+        "Where is the tag manager located in the editor?",
+        "How can I find the tag manager in the email editor?",
+        "What icon do I click to access the tag manager?",
+        "How do I open the tag manager in the email editor?",
+        "Where do I go to access the tag manager in the editor?"
+      ]
+    },
+    {
+      "question": "What kinds of tags are available by default in the application?",
+      "answer": "The application includes system tags, which cover basics like first name, last name, unsubscribe, and database tags, which are customizable.",
+      "variations": [
+        "What tag types are built into the application?",
+        "Which tags are included by default in the email editor?",
+        "What default tags are provided in the email application?",
+        "Are there built-in tags available in the application?",
+        "What standard tags can I use in my emails?"
+      ]
+    },
+    {
+      "question": "How can you create custom tags for your email?",
+      "answer": "Custom tags can be created in the database section, allowing you to add unique tags like footer addresses or other company-specific details.",
+      "variations": [
+        "How do I set up custom tags for my emails?",
+        "What is the process to create a new custom tag?",
+        "Can I add unique tags to the system?",
+        "How do I make a new custom tag for my emails?",
+        "What are the steps to create a custom tag?"
+      ]
+    },
+    {
+      "question": "Where can you store and manage custom data to use with tags?",
+      "answer": "Custom data for tags can be stored and managed within each subscriber's profile, allowing properties like job titles or office locations to be dynamically inserted.",
+      "variations": [
+        "How do I manage custom data for email tags?",
+        "Where can I save subscriber data for tagging?",
+        "Can subscriber properties be used with tags?",
+        "Where is custom data stored for dynamic tags?",
+        "How do I keep track of subscriber information for use in tags?"
+      ]
+    }
+  ],
+
+  "tags": [
+    {
+      "tag": "[firstname]",
+      "description": "Will display the subscriber's first name field."
+    },
+    {
+      "tag": "[lastname]",
+      "description": "Will display the subscriber's last name field."
+    },
+    {
+      "tag": "[email]",
+      "description": "Will display the subscriber's email address."
+    },
+    {
+      "tag": "[unsubscribe]",
+      "description": "Creates a one-click unsubscribe link."
+    },
+    {
+      "tag": "[address]",
+      "description": "Will display the address field from the subscriber's profile."
+    },
+    {
+      "tag": "[age]",
+      "description": "Will display the age field."
+    },
+    {
+      "tag": "[city]",
+      "description": "Will display the city field from the subscriber's profile."
+    },
+    {
+      "tag": "[comment]",
+      "description": "Will display the comment from the subscriber's profile."
+    },
+    {
+      "tag": "[company]",
+      "description": "Will display the company field of the subscriber's profile."
+    },
+    {
+      "tag": "[companyname]",
+      "description": "Will display the name of the company from the Setup > CheckList > Defaults page."
+    },
+    {
+      "tag": "[country]",
+      "description": "Will display the country field."
+    },
+    {
+      "tag": "[fax]",
+      "description": "Will display the fax field."
+    },
+    {
+      "tag": "[frequency]",
+      "description": "Will display the subscriber's frequency preference."
+    },
+    {
+      "tag": "[gender]",
+      "description": "Will display the gender field."
+    },
+    {
+      "tag": "[name]",
+      "description": "Combines first name and last name fields, or puts the subscriber's email address if these two fields are both blank."
+    },
+    {
+      "tag": "[nickname]",
+      "description": "Will display the nickname field."
+    },
+    {
+      "tag": "[phone]",
+      "description": "Will display the phone field."
+    },
+    {
+      "tag": "[prop1] - [prop8]",
+      "description": "Will display the active custom property."
+    },
+    {
+      "tag": "[prop1+] - [prop8+]",
+      "description": "Will display the selected options of the checkbox property."
+    },
+    {
+      "tag": "[prop1-] - [prop8-]",
+      "description": "Will display the unselected options of the checkbox property."
+    },
+    {
+      "tag": "[prop1.display] - [prop8.display]",
+      "description": "Will display the selected options of the checkbox property in comma separated format."
+    },
+    {
+      "tag": "[state]",
+      "description": "Will display the state field."
+    },
+    {
+      "tag": "[userid]",
+      "description": "Will display the subscriber's system generated user id number as encrypted."
+    },
+    {
+      "tag": "[uuserid]",
+      "description": "Will display the subscriber's system generated, real user id number."
+    },
+    {
+      "tag": "[zip]",
+      "description": "Will display the zip/postal code field."
+    },
+    {
+      "tag": "[chgsettings]",
+      "description": "Creates a link for the subscriber to edit their profile settings."
+    },
+    {
+      "tag": "[confirm]",
+      "description": "Link when using double-opt in as your sign-up process. Place this tag in the welcome/confirmation email."
+    },
+    {
+      "tag": "[signup]",
+      "description": "Creates a link to the system generated sign-up page."
+    },
+    {
+      "tag": "[fb]",
+      "description": "Use in any template section for sharing the full newsletter on Facebook and/or in items for sharing a specific item."
+    },
+    {
+      "tag": "[tw]",
+      "description": "Use in any template section for sharing the full newsletter on Twitter and/or in items for sharing a specific item."
+    },
+    {
+      "tag": "[rss]",
+      "description": "Use in any template section for sharing the full newsletter as an RSS feed and/or in items for sharing a specific item."
+    },
+    {
+      "tag": "[fwd]",
+      "description": "Use in any template section to forward the full newsletter and/or use in items for forwarding a particular item."
+    },
+    {
+      "tag": "[dg]",
+      "description": "Use in any template section for sharing the full newsletter on Digg and/or in items for sharing a specific item."
+    },
+    {
+      "tag": "[su]",
+      "description": "Use in any template section for sharing the full newsletter on StumbleUpon and/or in items for sharing a specific item."
+    },
+    {
+      "tag": "[ri]",
+      "description": "Use in any template section for sharing the full newsletter on Reddit and/or in items for sharing a specific item."
+    },
+    {
+      "tag": "[bz]",
+      "description": "Use in any template section for sharing the full newsletter on Buzz and/or in items for sharing a specific item."
+    },
+    {
+      "tag": "[lv]",
+      "description": "Use in any template section for sharing the full newsletter on Live and/or in items for sharing a specific item."
+    },
+    {
+      "tag": "[dl]",
+      "description": "Use in any template section for sharing the full newsletter on Delicious and/or in items for sharing a specific item."
+    },
+    {
+      "tag": "[pdf]",
+      "description": "Use in any template section for sharing a full PDF/printable version of the newsletter and/or a specific item."
+    },
+    {
+      "tag": "[com]",
+      "description": "Use to insert a \"Leave a Comment\" field in items."
+    },
+    {
+      "tag": "[fbl]",
+      "description": "Use in any template section for sharing the full newsletter on Facebook Like and/or in items for sharing a specific item."
+    },
+    {
+      "tag": "[g1]",
+      "description": "Use in any template section for sharing the full newsletter on Google +1 and/or in items for sharing a specific item."
+    },
+    {
+      "tag": "[share_all]",
+      "description": "Use all of the social sharing links in the full newsletter or a specific item."
+    },
+    {
+      "tag": "[categoryindex]",
+      "description": "Lists the category names in a project edition populated by items, formatted horizontally."
+    },
+    {
+      "tag": "[catindexvert]",
+      "description": "Lists the category names in a project edition populated by items, formatted vertically."
+    },
+    {
+      "tag": "[listindex]",
+      "description": "Creates an unordered list (bullets) 'In This Issue' set of hyperlinks."
+    },
+    {
+      "tag": "[shortitemindex]",
+      "description": "Creates an 'In This Issue' set of hyperlinks linking to each item's landing page."
+    },
+    {
+      "tag": "[archivelist]",
+      "description": "Displays a list of archived broadcasts of a particular project group."
+    },
+    {
+      "tag": "[articles]",
+      "description": "For use in a custom template to present the items created in a project edition."
+    },
+    {
+      "tag": "[categoryname]",
+      "description": "When used in a custom template, builds ONLY the items from that category."
+    },
+    {
+      "tag": "[date]",
+      "description": "Displays the current date in numerical format (mm/dd/yyyy)."
+    },
+    {
+      "tag": "[longdate]",
+      "description": "Displays the current date in 'month dd, yyyy' format."
+    },
+    {
+      "tag": "[time]",
+      "description": "Displays the current time in 12hr format."
+    },
+    {
+      "tag": "[year]",
+      "description": "Displays the current year (yyyy)."
+    }
+  ]
+}
